@@ -1,0 +1,25 @@
+/* .App{
+    display: flex;
+    justify-content: space-between;
+} */
+
+.signUp{
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:10px ;
+    width: 30%;
+    text-align: center;
+    padding: 15px;
+    border: 2px solid rgb(86, 10, 121);
+    border-radius: 30px;
+    /* border; */
+}
+form{
+    width: 100%;
+}
+.signUp:hover{
+    transform: scale(1.01);
+}
+
